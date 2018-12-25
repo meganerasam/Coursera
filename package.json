@@ -1,0 +1,14 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "First angular app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Megane Rasamimanana",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/material": "^6.4.7"
+  }
+}
